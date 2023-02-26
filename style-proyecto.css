@@ -1,0 +1,29 @@
+/** style-proyecto plus bootstrap */
+li {
+    color: grey;
+    font-size: 18px;
+  }
+  p {
+    color: black;
+    font-size: 18px;
+  }
+  #data {
+    color: black;
+    font-size: 20px;
+    font: bold;
+  }
+  #bye {
+    color: grey;
+    font-size: 76px;
+    font: bold;
+    font-family: family=Tilt+Neon&family=Tilt+Warp&display=swap
+    font-style: italic;
+  }
+  div.container.text-center {
+    background-color: rgb(185, 184, 184);
+    padding: 5px;
+  }
+  #left {
+    background-color: rgb(240, 237, 237);
+  }
+  
